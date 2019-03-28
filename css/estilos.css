@@ -1,0 +1,109 @@
+body{
+	font: 15px Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #f4f4f4;
+}
+.contenedor{
+
+	width:80%;
+	margin:auto;
+	overflow:hiden;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+.boton1{
+	height:60px
+	background:#fff;
+	border:3;
+	padding-left:20px;
+	padding-right:20px;
+	color:#08088A;
+}
+header{
+	background: url('../imagenes/fondo1.jpg') no-repeat ;
+	padding-top:30px;
+	min-height: 80px;
+	border-bottom:5px solid #1293d4
+}
+header a{
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:16px
+}
+header #marca{
+float:center;
+}
+header #marca h1{
+	margin:0;
+	padding-left:550px;
+	color:#fff
+}
+header nav{
+	float:right;
+	margin-top:10px;
+}
+header .resaltado, header .actual a{
+	color: #fff;
+	font-weight:bols;
+}
+header a:hover{
+	color: #ccc;
+	font-weight: bold;
+}
+#cajas{
+	height:420px;
+	border-bottom:5px solid #1293d4
+}
+#fondo{
+	background:url('../imagenes/fondo3.jpg') no-repeat ;
+	float:right;
+	width:350px;
+	height:400px;
+}
+#menu{
+	margin-left:40px;
+}
+#menu p{
+	margin-left:190px;
+}
+#bienvenido{
+	width:850px;
+	height:400px;
+	background-color:orange;
+}
+#bienvenido h2{
+	padding-top:10px;
+	margin-left:40px;
+}
+#bienvenido h5{
+	margin-left:40px;
+	margin-right:40px;
+}
+#bienvenido p{
+	margin-left:130px;
+}
+#ficha{
+	height:100px;
+	border-bottom:5px solid #1293d4
+}
+#ficha h5{
+	text-align:center;
+}
+#info h5{
+	margin:3px
+}
+
+
+footer{
+	height:50px;
+	background-color:#0f3759;
+	float:center;
+}
+footer p{
+	text-align: center;
+	color:#fff;
+}
