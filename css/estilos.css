@@ -59,7 +59,7 @@ header a:hover{
 	border-bottom:5px solid #1293d4
 }
 #fondo{
-	background:url('../imagenes/fondo3.jpg') no-repeat ;
+	background:url('/imagenes/fondo3.jpg') no-repeat ;
 	float:right;
 	width:350px;
 	height:400px;
