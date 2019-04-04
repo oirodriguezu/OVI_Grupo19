@@ -66,7 +66,7 @@ header a:hover{
 }
 #menu{
 	margin-left:40px;
-	line-height:5px;
+	line-height:0px;
 }
 #menu p{
 	margin-left:190px;
